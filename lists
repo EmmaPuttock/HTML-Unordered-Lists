@@ -1,0 +1,34 @@
+<!DOCTYPEhtml>
+ <html>
+  <head>
+    <title>Lists</title>
+  </head>
+
+  <body>
+
+    <ol> <!-- ordered list are used for instructions -->
+
+       <li>First gatherthe ingredients</li>
+       <li>Then chop up the garlic</li>
+       <li>Next...</li>
+ 
+    </ol>
+
+
+
+ <!-- Unordered lists are similar to shopping lists -->
+
+    <ul>
+
+       <li>Make-Up</li>
+       <li>Hair Dye</li>
+       <li>Laptop Charger</li>
+       <li>GOT Hoodie</li>
+
+    </ul>
+
+<!-- CSS can change the bullet points, slashes and turn a untidy list into a navigation for your web page -->
+
+
+  </body>
+ </html>
